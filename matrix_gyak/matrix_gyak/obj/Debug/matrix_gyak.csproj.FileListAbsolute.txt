@@ -1,0 +1,7 @@
+C:\Users\dex02\source\repos\matrix_gyak\matrix_gyak\bin\Debug\matrix_gyak.exe.config
+C:\Users\dex02\source\repos\matrix_gyak\matrix_gyak\bin\Debug\matrix_gyak.exe
+C:\Users\dex02\source\repos\matrix_gyak\matrix_gyak\bin\Debug\matrix_gyak.pdb
+C:\Users\dex02\source\repos\matrix_gyak\matrix_gyak\obj\Debug\matrix_gyak.csprojAssemblyReference.cache
+C:\Users\dex02\source\repos\matrix_gyak\matrix_gyak\obj\Debug\matrix_gyak.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\matrix_gyak\matrix_gyak\obj\Debug\matrix_gyak.exe
+C:\Users\dex02\source\repos\matrix_gyak\matrix_gyak\obj\Debug\matrix_gyak.pdb
